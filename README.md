@@ -9,4 +9,4 @@ chmod +x chroot.sh
 sudo ./chroot.sh
 ```
 ### !! When it asks for the disk, put it in this format: /dev/sdx
-### and in partition number put just the number (example: /dev/sda1 => 1 (only the 1))
+### and in partition number put just the number (example: /dev/sda1 => 1)
