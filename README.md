@@ -8,3 +8,4 @@ cd chrooter
 chmod +x chroot.sh
 sudo ./chroot.sh
 ```
+### !! When it asks for the disk, put it in this format: /dev/sdx
